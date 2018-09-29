@@ -1,0 +1,7 @@
+C:\Github\caca-palavras\CacaPalavra\bin\Debug\CacaPalavra.exe.config
+C:\Github\caca-palavras\CacaPalavra\bin\Debug\CacaPalavra.exe
+C:\Github\caca-palavras\CacaPalavra\bin\Debug\CacaPalavra.pdb
+C:\Github\caca-palavras\CacaPalavra\obj\Debug\CacaPalavra.csprojAssemblyReference.cache
+C:\Github\caca-palavras\CacaPalavra\obj\Debug\CacaPalavra.csproj.CoreCompileInputs.cache
+C:\Github\caca-palavras\CacaPalavra\obj\Debug\CacaPalavra.exe
+C:\Github\caca-palavras\CacaPalavra\obj\Debug\CacaPalavra.pdb
